@@ -1,0 +1,18 @@
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
+
+.navbar-nav .nav-link {
+    display: block;
+    padding-top: .425rem;
+    padding-bottom: .425rem;
+}
+
+.mb-3 {
+    margin-bottom: 3rem!important;
+}
+
+.bg-faded {
+    background-color: #5bc0de;
+    color: #ffffff;
+}
